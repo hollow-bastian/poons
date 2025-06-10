@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Mastters in Library and Information Studies, Digital Humanities dual program (2023-present)
+* Masters in Library and Information Studies – University of Alberta (2022-2023)
+* Bachelor of Arts — University of Alberta, English / Film Studies (2015-2018)
+* Bachelor of Arts — MacEwan University, English / History=(2013-2018)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Research Assistant
+  * University of Alberta
+  * Duties included: Created a systematic review of available open education resources for people with disabilities (and specifically for Deaf, hard of hearing people) of all ages. 
+  * Supervisor: Dr. Joanne Webber 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2023- October 2023: Library Clerk
+  * UAlberta Libraries
+  * Duties included: Conduct reference interviews, answer patron questions in person, chat, and email. Assist users with finding materials, refer patrons to other campus resources.
+  * Supervisor: Doris Wagner
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Library Research
+* Data Analysis
+* Academic and Professional writing
+  * Copy editing
 
 Publications
 ======
@@ -58,7 +54,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
