@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Mastters in Library and Information Studies, Digital Humanities dual program (2023-present)
+* Masters in Library and Information Studies, Digital Humanities dual program (2023-present)
 * Masters in Library and Information Studies – University of Alberta (2022-2023)
 * Bachelor of Arts — University of Alberta, English / Film Studies (2015-2018)
 * Bachelor of Arts — MacEwan University, English / History=(2013-2018)
@@ -42,16 +42,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
